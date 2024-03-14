@@ -1,0 +1,2 @@
+# por que nao paralelizar
+ 
